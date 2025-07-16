@@ -33,7 +33,8 @@
 
 ## 📎 資料
 
-- `Transforumer.pdf`  
+- `Transforumer.pdf`
+- `Transforumer.pptx`  
   → Transformerの構造と動作について、図・数式・処理フローを交えて解説したスライド資料です。
 
 ---

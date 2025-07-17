@@ -9,7 +9,7 @@
 
 - **概要**：自然言語処理や生成AIの基盤となる Transformer モデルの構造・数理的背景を調査  
 - **取り組み**：論文 _"Attention Is All You Need"_ を読み、スライド資料にて構成・動作・応用例を解説  
-- **成果物**：[📂 Transforumer リポジトリ](./Transforumer)
+- **成果物**：[📂 Transforumer リポジトリ](./Transformer)
 
 ---
 
